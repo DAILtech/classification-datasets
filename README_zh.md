@@ -2,7 +2,7 @@
 公开的中等尺寸自然图像分类数据集(样本数：6万-130万)
 | 数据集名称 | 图像尺寸 | 图像数量 | 类别数量 | 开源网址 |
 |-----------|---------|----------|----------|----------|
-| CIFAR‑10 | 32 × 32 像素| 60,000 张| 10 类 | https://huggingface.co/datasets/uoft-cs/cifar10 |
+| CIFAR‑10 | 32 × 32 像素| 60,000 张| 10 类 | [huggingface.co](https://huggingface.co/datasets/uoft-cs/cifar10) |
 | CIFAR‑100 | 32 × 32 像素| 60,000 张| 100 类 | [huggingface.co](https://huggingface.co/datasets/uoft-cs/cifar100) |
 | ImageNet‑1K | 224 × 224 像素| 1,281,167 张| 1,000 类 | [huggingface.co](https://huggingface.co/datasets/timm/imagenet-1k-wds) |
 | CINIC‑10 | 32 × 32 像素 | 270,000 张 | 10 类（与 CIFAR‑10 相同类别） | ar5iv.labs.arxiv.org / huggingface.co |
