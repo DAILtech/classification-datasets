@@ -10,7 +10,7 @@
 | ImageNet‑LT（长尾版） | 不定（ImageNet 原始分辨率） | ~135,000 张（训练 115k，测试 20k） | 1,000 类 | [arxiv.org](https://arxiv.org/pdf/2109.05263#:~:text=consists%20of%2062,images%20and%2020k%20test%20images) |
 | Places‑LT（长尾版） | 不定（场景照片） | ~99,000 张（训练 62.5k，测试 36.5k） | 365 类 | [arxiv.org](https://arxiv.org/pdf/2109.05263#:~:text=365,class) |
 | SUN397 | 不定（各类场景图像） | 108,754 | 397 类 | [pytorch.org](https://pytorch.org/vision/main/generated/torchvision.datasets.SUN397.html#:~:text=The%20SUN397%20or%20Scene%20UNderstanding,397%20categories%20with%20108%E2%80%99754%20images) |
-| SVHN（街景门牌号） | 32 × 32 像素 | ≈630,000 张（包含附加训练集） | 10 类（数字 0–9） | [medium.com](tahttps://medium.com/@lostandfound2654/) |
+| SVHN（街景门牌号） | 32 × 32 像素 | ≈630,000 张（包含附加训练集） | 10 类（数字 0–9） | [medium.com](https://medium.com/@lostandfound2654/image-classification-on-the-svhn-dataset-34040e2c7d4c#:~:text=The%20Street%20View%20House%20Numbers,used%20to%20help%20with%20training) |
 | Food‑101 | 最大边长 512 像素 | 101,000 张 | 101 类 | [pytorch.org](https://pytorch.org/vision/0.18/generated/torchvision.datasets.Food101.html#:~:text=The%20Food,side%20length%20of%20512%20pixels) |
 | Food‑251（iFood 2019） | 不定（网络抓取图像） | 160,785 张（训练 120,216，验证 12,170，测试 28,399） | 251 类 | [sites.google.com](https://sites.google.com/view/fgvc6/competitions/ifood-2019#:~:text=our%20last%20year%27s%20dataset%20to,category%20label) |
 | Deep（服饰分类） | 不定（提供高分辨率图像） | 289,222 张 | 50 类 | [mmlab.ie.cuhk.edu.hk](https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html#:~:text=in%20the%20wild) |
