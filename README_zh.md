@@ -6,7 +6,7 @@
 | CIFAR‑100 | 32 × 32 像素| 60,000 张| 100 类 | [huggingface.co](https://huggingface.co/datasets/uoft-cs/cifar100) |
 | ImageNet‑1K | 224 × 224 像素| 1,281,167 张| 1,000 类 | [huggingface.co](https://huggingface.co/datasets/timm/imagenet-1k-wds) |
 | CINIC‑10 | 32 × 32 像素 | 270,000 张 | 10 类（与 CIFAR‑10 相同类别） | [huggingface.co](https://huggingface.co/datasets/flwrlabs/cinic10) |
-| Tiny ImageNet | 64 × 64 像素 | 120,000 张（训练 100,000 张，验证 10,000 张，测试 10,000 张） | 200 类 | [cs231n.stanford.edu](https://cs231n.stanford.edu/reports/2017/pdfs/930.pdf#:~:text=less%20image%20classes,images%20are%20of%20size%2064%C3%9764 |
+| Tiny ImageNet | 64 × 64 像素 | 120,000 张（训练 100,000 张，验证 10,000 张，测试 10,000 张） | 200 类 | [cs231n.stanford.edu](https://cs231n.stanford.edu/reports/2017/pdfs/930.pdf#:~:text=less%20image%20classes,images%20are%20of%20size%2064%C3%9764) |
 | ImageNet‑LT（长尾版） | 不定（ImageNet 原始分辨率） | ~135,000 张（训练 115k，测试 20k） | 1,000 类 | [arxiv.org](https://arxiv.org/pdf/2109.05263#:~:text=consists%20of%2062,images%20and%2020k%20test%20images) |
 | Places‑LT（长尾版） | 不定（场景照片） | ~99,000 张（训练 62.5k，测试 36.5k） | 365 类 | [arxiv.org](https://arxiv.org/pdf/2109.05263#:~:text=365,class) |
 | SUN397 | 不定（各类场景图像） | 108,754 | 397 类 | [pytorch.org](https://pytorch.org/vision/main/generated/torchvision.datasets.SUN397.html#:~:text=The%20SUN397%20or%20Scene%20UNderstanding,397%20categories%20with%20108%E2%80%99754%20images) |
